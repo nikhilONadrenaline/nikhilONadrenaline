@@ -48,7 +48,7 @@
 
 ## 🔗 Connect With Me
 
-* LeetCode: [(https://leetcode.com/u/NikhilOnAdrenaline/)]
+* LeetCode: https://leetcode.com/u/NikhilOnAdrenaline
 * LinkedIn: www.linkedin.com/in/nikhil-pathak-8654271a0
 
 ---
