@@ -17,8 +17,8 @@
 
 * **Languages:** Java
 * **Core:** Data Structures & Algorithms
-* **Backend:** Spring Framework (learning & building)
-* **Frontend:** HTML, CSS, JavaScript
+* **Backend:** Spring Framework 
+* **Frontend:** HTML, CSS, JavaScript, React
 
 ---
 
@@ -33,7 +33,7 @@
 ## 🔥 What I'm Doing
 
 * Improving problem-solving daily
-* Building scalable backend projects
+* Building scalable projects
 * Strengthening core CS fundamentals
 
 ---
@@ -41,7 +41,7 @@
 ## 📌 Goals
 
 * Master DSA
-* Become a strong backend developer
+* Become a strong fullstack developer
 * Crack top tech roles
 
 ---
