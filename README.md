@@ -37,23 +37,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-### 📊 Stats & Problem Solving
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilONadrenaline&show_icons=true&theme=radium&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://leetcard.jacoblin.cool/SnoringHigh?theme=dark&font=baloo&ext=activity" width="48%" alt="LeetCode Stats" />
-</div>
-
----
-
-### 🔥 What I'm Doing
-
-- **Arovia:** Building a comprehensive medical and health management web app utilizing Spring Boot, React, OAuth2, and JWT authentication.
-- **Smart Waste Management:** Architecting a distributed food waste and inventory system incorporating AI meal planning, OCR, FeignClient, and Resilience4J.
-- **Problem Solving:** Consistently targeting hard-tagged problems in the 1900–1960 Elo difficulty range using a first-principles approach using leetcode difficulty predicting extension.
-
 <br>
 
 <p align="center">
